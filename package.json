@@ -1,5 +1,5 @@
 {
-  "name": "@amarokaz/react-onscreen",
+  "name": "react-onscreen-component",
   "version": "0.1.0",
   "description": "Component to that makes other components aware when they are on screen (visible)",
   "main": "build/index.js",
