@@ -1,7 +1,7 @@
 {
-  "name": "react-lazy-image",
+  "name": "react-on-screen",
   "version": "0.1.0",
-  "description": "Defer loading images only when they are visible",
+  "description": "Component to that makes other components aware when they are on screen (visible)",
   "main": "build/index.js",
   "scripts": {
     "build": "babel lib -d build",
