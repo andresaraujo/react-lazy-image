@@ -10,7 +10,4 @@ var _OnScreenImage2 = _interopRequireDefault(_OnScreenImage);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-module.exports = {
-  OnScreen: _OnScreen2.default,
-  OnScreenImage: _OnScreenImage2.default
-};
+module.exports = _OnScreen2.default;

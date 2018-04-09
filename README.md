@@ -10,7 +10,7 @@ import OnScreen from 'react-on-screen'
 const DeferredImage = (props) =>
   <OnScreen>
     {({isOnscreen}) => (
-        <img {...this.props} src={isOnscreen ? this.props.src : this.props.placeholderSrc}/>
+        <img {...props} src={isOnscreen ? props.src : props.placeholderSrc}/>
     )}
   </OnScreen>
 

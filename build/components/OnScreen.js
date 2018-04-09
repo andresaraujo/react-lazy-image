@@ -86,3 +86,5 @@ var OnScreen = exports.OnScreen = function (_React$Component) {
 }(_react2.default.Component);
 
 OnScreen.defaultProps = {};
+
+exports.default = OnScreen;
