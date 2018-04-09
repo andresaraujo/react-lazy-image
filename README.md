@@ -2,6 +2,10 @@
 
 Component to that makes other components aware when they are on screen (visible)
 
+### Install
+
+`npm i react-onscreen-component --save`
+
 ### Usage
 
 ```javascript
